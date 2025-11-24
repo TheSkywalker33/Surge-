@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,video.twimg.com
+DOMAIN-SUFFIX,pbs.twimg.com
+DOMAIN-SUFFIX,abs.twimg.com
+DOMAIN-SUFFIX,s.twimg.com
+DOMAIN-SUFFIX,ton.twimg.com
+DOMAIN,api.x.com
+DOMAIN,api.twitter.com
+DOMAIN-SUFFIX,upload.twitter.com
+DOMAIN-SUFFIX,syndication.twitter.com
+DOMAIN-SUFFIX,platform.twitter.com
