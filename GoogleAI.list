@@ -6,5 +6,8 @@ DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ai-test.google.com
 DOMAIN-SUFFIX,ai-staging.google.com
