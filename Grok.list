@@ -1,3 +1,8 @@
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN,api.x.ai
+DOMAIN-SUFFIX,grok.x.ai
+DOMAIN-SUFFIX,grok.x.com
+DOMAIN,console.x.ai
+DOMAIN,management-api.x.ai
+DOMAIN,docs.x.ai
